@@ -4,11 +4,11 @@ Este projeto apresenta um dashboard interativo para análise de estoque, entrada
 
 🚀 Visão Geral
 O dashboard fornece uma visão consolidada dos principais indicadores do negócio:
-📦 Total de produtos: 32
-📥 Total de entradas: 2337
-📤 Total de saídas: 2916
-💰 Total de gastos: R$ 1,02M
-🤑 Total vendido: R$ 4,31M
+Total de produtos: 32
+Total de entradas: 2337
+Total de saídas: 2916
+Total de gastos: R$ 1,02M
+Total vendido: R$ 4,31M
 
 📈 Funcionalidades
 Monitoramento de estoque em tempo real
